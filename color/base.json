@@ -1,0 +1,26 @@
+{
+  "color": {
+    "base": {
+      "gray": {
+        "light" : { "value": "#CCCCCC" },
+        "medium": { "value": "#999999" },
+        "dark"  : { "value": "#111111" }
+      },
+      "green": {
+        "light":{ "value": "#00FF00" },
+        "medium": { "value": "#00FF00", "comment": "this is used for success buttons" },
+        "dark": { "value": "#198754" }
+      },
+      "yellow" : {
+        "light":{ "value": "#eed202" },
+        "medium": { "value": "#FFFF00" },
+        "dark": { "value": "#F4BC1C" }
+      },
+      "red": {
+        "light":{ "value": "#FF0000" },
+        "medium": { "value": "#00FF00" },
+        "dark": { "value": "#00FF00" }
+      }
+    }
+  }
+}

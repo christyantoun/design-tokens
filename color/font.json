@@ -1,0 +1,11 @@
+{
+  "color": {
+    "font": {
+      "base"     : { "value": "{color.base.red.medium.value}"        },
+      "secondary": { "value": "{color.base.green.dark.value}"      },
+      "tertiary" : { "value": "{color.base.gray.light.value}" },
+      "success"  : { "value": "{color.base.green.dark.value"    },
+      "warning"  : { "value" :  "{color.base.yellow.light.value" }
+    }
+  }
+}
